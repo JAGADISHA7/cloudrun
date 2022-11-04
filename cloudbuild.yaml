@@ -21,6 +21,6 @@
         'run',
         'deploy',
         'cloud-run-continuous-deployment-example',
-        '--image=gcr.io/cloud-run-cd-example/cloud-run-continuous-deployment-example:$SHORT_SHA',
+        '--image=gcr.io/splendid-world-366611/cloudrun:$SHORT_SHA',
         '--region=us-central1',
       ]
